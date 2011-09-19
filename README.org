@@ -1,0 +1,31 @@
+* What it is
+
+An implementation of some [[http://en.wikipedia.org/wiki/Cellular_automata][Cellular Automata]], specifically Brians
+Brain and Conway's Game of Life, in Clojure.
+
+* How to use it
+
+To start it in your REPL:
+#+BEGIN_SRC clojure
+> (use 'cellular-automata)
+> (start-world)
+#+END_SRC
+
+To stop it:
+#+BEGIN_SRC clojure
+> (stop-world)
+#+END_SRC
+
+* Follow ups
+
+- http://clj-me.cgrand.net/2011/08/19/conways-game-of-life/
+- how would transients change the implementation (and performance)?
+- how would Clojure Records affect performance?
+
+* Inspiration
+
+This work was originally inspired by [[http://bestinclass.dk/][Lau Jensen]]'s blog post [[http://www.bestinclass.dk/index.clj/2009/10/brians-functional-brain.html][Brians Functional Brian]].
+
+* Author
+
+Stefan Hübner, Twitter: [[https://twitter.com/sthuebner][@sthuebner]]
