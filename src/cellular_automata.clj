@@ -1,6 +1,10 @@
 ;;;; based on Lau Jensen's blog posts
 ;;;; - http://www.bestinclass.dk/index.clj/2009/10/brians-functional-brain.html
 ;;;; - http://www.bestinclass.dk/index.clj/2009/10/brians-transient-brain.html
+;;;;
+;;;; and JĀNIS DŽERIŅŠ' post http://t-b-o-g.blogspot.com/2009/10/brians-brain-on-clojure.html
+;;;; (and its follow ups)
+;;;;
 ;;;; some more tweaks by me
 
 (ns cellular-automata
