@@ -1,7 +1,7 @@
 * What it is
 
-An implementation of some [[http://en.wikipedia.org/wiki/Cellular_automata][Cellular Automata]], specifically Brians
-Brain and Conway's Game of Life, in Clojure.
+Clojure implementations of some [[http://en.wikipedia.org/wiki/Cellular_automata][Cellular Automata]], specifically Brians
+Brain and Conway's Game of Life.
 
 * How to use it
 
