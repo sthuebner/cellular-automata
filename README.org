@@ -18,9 +18,9 @@ To stop it:
 
 * Follow ups
 
-- http://clj-me.cgrand.net/2011/08/19/conways-game-of-life/
-- how would transients change the implementation (and performance)?
-- how would Clojure Records affect performance?
+- [[http://clj-me.cgrand.net/][Christophe Grand]] on a different board represenation for [[http://clj-me.cgrand.net/2011/08/19/conways-game-of-life/][Conway's Game of Life]]
+- how would [[http://clojure.org/Transients][transients]] change the implementation (and performance)?
+- how would [[http://clojure.org/datatypes][records]] affect performance?
 
 * Inspiration
 
